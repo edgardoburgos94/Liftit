@@ -28,7 +28,6 @@ class Usersandpasswords extends Component {
           </tr>
         </tbody>
       </Table>
-      json-server --watch users.json --port 3001
       </div>
 
     );
