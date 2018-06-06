@@ -11,8 +11,8 @@ class Login extends Component {
     super();
 
     this.state = {
-      user:'test1',
-      password:'123456',
+      user:'',
+      password:'',
       loggedIn: false
     }
 

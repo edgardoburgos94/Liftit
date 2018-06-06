@@ -11,8 +11,8 @@ class Createaservice extends Component {
 
     this.state = {
       loggedIn: false,
-      origin:'Medellín, calle 50a 86-445',
-      destiny:'Medellín, calle 45e 72-57',
+      origin:'',
+      destiny:'',
       distance: '',
       duration:''
     }
